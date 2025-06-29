@@ -1,0 +1,2 @@
+# No se requiere instalación extra para este script
+# Solo usar winsound si estás en Windows
